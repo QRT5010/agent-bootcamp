@@ -2,3 +2,5 @@
 __pycache__/
 demo.db
 .env
+.cache/
+chroma_db/
